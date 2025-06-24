@@ -4,7 +4,7 @@ go build .
 
 sudo mkdir -p /usr/local/bin
 
-sudo cp ./bender /usr/local/bin/bender
+sudo cp ./bender /usr/local/bin/bender 
 
 sudo chmod +x /usr/local/bin/bender
 
