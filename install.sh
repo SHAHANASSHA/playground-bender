@@ -2,7 +2,7 @@
 
 go build . 
 
-sudo mkdir -p /usr/local/bin
+sudo mkdir -p /usr/local/bin 
 
 sudo cp ./bender /usr/local/bin/bender 
 
